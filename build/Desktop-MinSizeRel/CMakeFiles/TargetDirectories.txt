@@ -1,9 +1,0 @@
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/cellular-automaton.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/edit_cache.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/rebuild_cache.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/list_install_components.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/install.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/install/local.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/install/strip.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/cellular-automaton_autogen_timestamp_deps.dir
-/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-MinSizeRel/CMakeFiles/cellular-automaton_autogen.dir
