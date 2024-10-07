@@ -1,0 +1,9 @@
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/cellular-automaton.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/install.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/cellular-automaton_autogen_timestamp_deps.dir
+/home/acruxtech/Documents/!3_study/cpp/qt/cellular-automaton/build/Desktop-Debug/CMakeFiles/cellular-automaton_autogen.dir
