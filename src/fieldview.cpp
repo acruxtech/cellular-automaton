@@ -1,4 +1,4 @@
-#include "fieldview.h"
+#include "../include/fieldview.h"
 
 #include <QLabel>
 #include <QImage>

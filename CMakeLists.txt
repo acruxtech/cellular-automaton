@@ -14,18 +14,17 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
         main.cpp
-        mainwindow.cpp
-        mainwindow.h
-
+        src/mainwindow.cpp
+        include/mainwindow.h
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(cellular-automaton
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
-        constants.h
-        field.h field.cpp
-        fieldview.h fieldview.cpp
+        include/constants.h
+        include/field.h src/field.cpp
+        include/fieldview.h src/fieldview.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET cellular-automaton APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
